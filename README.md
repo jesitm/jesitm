@@ -6,7 +6,7 @@ Licenciada en Informática con más de 25 años de trayectoria en el mercado, ho
 
 ## 🚀 Proyectos
 
-### Reporte de gestión de ventas (10 años de histórico) 
+### Informe de gestión de ventas (10 años de histórico) 
 Tablero de gestión a partir de la información de ventas de los últimos 10 años.
 
 - **Origen de datos:** archivos CSV
