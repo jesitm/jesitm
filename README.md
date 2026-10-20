@@ -1,4 +1,4 @@
-# Jessica, Torres Molina
+# Lic. Inf. Jessica, Torres Molina
 
 ### Consultora de datos · Power BI, SQL y Python · Integración de datos y automatización de reportes.
 
@@ -13,7 +13,7 @@ Tablero de gestión a partir de la información de ventas de los últimos 10 añ
 - **Proceso:** limpieza, integración y modelado de los datos
 - **Resultado:** dashboard interactivo con la evolución de las ventas
 - **Tecnologías:** Python · Pandas · Matplotlib . Seaborn · DAX Studio . Power BI
-- **Enlaces:** [Repositorio ](https://github.com/jesitm/management-report)
+- **Enlaces:** [Repositorio ](https://github.com/jesitm/reporte-gestion)
    
 ## 🎓 Formación
 - **Licenciada en informatica** - Universidad Nacional de La Plata
