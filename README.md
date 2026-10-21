@@ -2,7 +2,7 @@
 
 ### Consultora de datos · Power BI, SQL y Python · Integración de datos y automatización de reportes.
 
-Licenciada en Informática con más de 25 años de trayectoria en el mercado, hoy enfocada en la consultoría de datos: integración de fuentes, automatización de reportes y tableros en Power BI. Tengo experiencia con bases de datos PostgreSQL y Oracle, y complementé mi recorrido con formación en Data Science y Machine Learning.
+Licenciada en Informática con más de 25 años de trayectoria en el mercado, hoy enfocada en la consultoría de datos: integración de fuentes, automatización de reportes,  Power BI, python, pandas, data-analysis, dashboard, etl. Tengo experiencia con bases de datos PostgreSQL y Oracle, y complementé mi recorrido con formación en Data Science y Machine Learning.
 
 ## 🚀 Proyectos
 
