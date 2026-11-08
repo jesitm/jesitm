@@ -54,3 +54,6 @@ Predicción y segmentación de la fuga de clientes bancarios: regresión logíst
 - **Licenciada en Informática** · Universidad Nacional de La Plata
 - **Formación en Data Science y Machine Learning** · Academia de Tecnología Henry
 - **Docencia universitaria** · Universidad Nacional de Quilmes y Universidad Nacional de Pilar
+
+**Jessica Torres Molina** · Consultora de datos · Power BI, SQL y Python
+[LinkedIn](https://www.linkedin.com/in/jessicatorresmolina/) · [GitHub](https://github.com/jesitm)
