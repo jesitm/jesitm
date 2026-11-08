@@ -4,6 +4,16 @@
 
 Licenciada en Informática con más de 20 años de trayectoria en el mercado, hoy enfocada en la consultoría de datos: integración de fuentes, automatización de reportes y tableros en Power BI. Tengo experiencia con bases de datos PostgreSQL y Oracle, y complementé mi recorrido con formación en Data Science y Machine Learning.
 
+## Servicios
+
+## En qué puedo ayudarte
+
+- Tableros en Power BI a medida: modelado de datos, DAX y Power Query
+- Integración de fuentes de datos y pipelines con SQL (PostgreSQL, Oracle) y Python
+- Automatización de reportes
+- Herramientas web a medida con Python y Streamlit
+
+  
 ## Proyectos
 
 ### Control de Monotributo (Streamlit)
@@ -54,6 +64,7 @@ Predicción y segmentación de la fuga de clientes bancarios: regresión logíst
 - **Licenciada en Informática** · Universidad Nacional de La Plata
 - **Formación en Data Science y Machine Learning** · Academia de Tecnología Henry
 - **Docencia universitaria** · Universidad Nacional de Quilmes y Universidad Nacional de Pilar
+- 
+## Contacto
 
-**Jessica Torres Molina** · Consultora de datos · Power BI, SQL y Python
 [LinkedIn](https://www.linkedin.com/in/jessicatorresmolina/) · [GitHub](https://github.com/jesitm)
