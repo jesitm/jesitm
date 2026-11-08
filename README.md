@@ -13,7 +13,6 @@ Licenciada en Informática con más de 20 años de trayectoria en el mercado, ho
 - Automatización de reportes
 - Herramientas web a medida con Python y Streamlit
 
-  
 ## Proyectos
 
 ### Control de Monotributo (Streamlit)
@@ -64,7 +63,7 @@ Predicción y segmentación de la fuga de clientes bancarios: regresión logíst
 - **Licenciada en Informática** · Universidad Nacional de La Plata
 - **Formación en Data Science y Machine Learning** · Academia de Tecnología Henry
 - **Docencia universitaria** · Universidad Nacional de Quilmes y Universidad Nacional de Pilar
-- 
+  
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/jessicatorresmolina/) · [GitHub](https://github.com/jesitm)
