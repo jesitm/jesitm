@@ -6,7 +6,7 @@ Licenciada en Informática con más de 20 años de trayectoria en el mercado, ho
 
 ## Servicios
 
-## En qué puedo ayudarte
+### En qué puedo ayudarte
 
 - Tableros en Power BI a medida: modelado de datos, DAX y Power Query
 - Integración de fuentes de datos y pipelines con SQL (PostgreSQL, Oracle) y Python
