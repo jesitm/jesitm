@@ -6,6 +6,10 @@ Licenciada en Informática con más de 20 años de trayectoria en el mercado, ho
 
 ## Proyectos
 
+### Control de Monotributo (Streamlit)
+Tablero para estudios contables: facturación de 12 meses frente al tope de categoría, semáforo y proyección.
+[Ver repositorio](https://github.com/jesitm/tablero-monotributo-streamlit)
+
 ### Seguimiento de la cotización UVA (Power BI)
 
 Tablero interactivo para consultar la evolución de la UVA desde 2016, con indicadores de variación y consulta del valor por fecha.
