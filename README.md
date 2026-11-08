@@ -6,6 +6,16 @@ Licenciada en Informática con más de 20 años de trayectoria en el mercado, ho
 
 ## Proyectos
 
+### Seguimiento de la cotización UVA (Power BI)
+
+Tablero interactivo para consultar la evolución de la UVA desde 2016, con indicadores de variación y consulta del valor por fecha.
+
+- **Origen de datos:** Banco Central de la República Argentina (BCRA)
+- **Proceso:** modelado de datos con tabla de fechas y medidas DAX de inteligencia de tiempo
+- **Resultado:** tablero con variación mensual, interanual y acumulada, filtros por año, mes y día, y títulos dinámicos
+- **Tecnologías:** Power BI · DAX · Power Query
+- **Estado:** versión inicial, en mejora continua
+- **Enlaces:** [Repositorio](https://github.com/jesitm/tablero-uva-powerbi)
 ### Power BI Informe de gestión de ventas (10 años de histórico)
 
 Tablero de gestión a partir de la información de ventas de los últimos 10 años de una empresa con sucursales en varias ciudades.
