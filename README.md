@@ -4,20 +4,22 @@
 
 Licenciada en Informática con más de 20 años de trayectoria en el mercado, hoy enfocada en la consultoría de datos: integración de fuentes, automatización de reportes y tableros en Power BI. Tengo experiencia con bases de datos PostgreSQL y Oracle, y complementé mi recorrido con formación en Data Science y Machine Learning.
 
-## Servicios
-
-### En qué puedo ayudarte
+## En qué puedo ayudarte
 
 - Tableros en Power BI a medida: modelado de datos, DAX y Power Query
 - Integración de fuentes de datos y pipelines con SQL (PostgreSQL, Oracle) y Python
 - Automatización de reportes
 - Herramientas web a medida con Python y Streamlit
 
+Si tenés reportes que hoy se arman a mano o datos dispersos en varias fuentes, [escribime por LinkedIn](https://www.linkedin.com/in/jessicatorresmolina/).
+
 ## Proyectos
 
 ### Control de Monotributo (Streamlit)
 
 Herramienta para estudios contables que controla la facturación de clientes monotributistas frente al tope de su categoría y proyecta cuándo lo superarían.
+
+<img src="https://github.com/jesitm/tablero-monotributo-streamlit/raw/main/img/captura-resumen.png" alt="Resumen de clientes del tablero de Monotributo" width="700">
 
 - **Origen de datos:** CSV de Mis Comprobantes (ARCA)
 - **Proceso:** lectura y limpieza de comprobantes (notas de crédito, recibos), ventana móvil de 12 meses y proyección según el ritmo reciente
@@ -36,7 +38,8 @@ Tablero interactivo para consultar la evolución de la UVA desde 2016, con indic
 - **Tecnologías:** Power BI · DAX · Power Query
 - **Estado:** versión inicial, en mejora continua
 - **Enlaces:** [Repositorio](https://github.com/jesitm/tablero-uva-powerbi)
-### Power BI Informe de gestión de ventas (10 años de histórico)
+
+### Informe de gestión de ventas (Power BI)
 
 Tablero de gestión a partir de la información de ventas de los últimos 10 años de una empresa con sucursales en varias ciudades.
 
@@ -46,24 +49,28 @@ Tablero de gestión a partir de la información de ventas de los últimos 10 añ
 - **Tecnologías:** Python · Pandas · Matplotlib · Seaborn · DAX Studio · Power BI
 - **Enlaces:** [Repositorio](https://github.com/jesitm/informe-gestion)
 
-### Machine Learning Predicción y Segmentación de churn bancario
+### Predicción y segmentación de churn bancario (Machine Learning)
 
 Predicción y segmentación de la fuga de clientes bancarios: regresión logística, Gradient Boosting, umbral de decisión por costos y clustering.
 
 - **Origen de datos:** archivos CSV
 - **Proceso:**
-  - **Regresión logística (baseline)** Objetivo: establecer un modelo baseline interpretable para predecir churn.
-  - **Gradient Boosting y optimización**  mejorar la predicción con modelos de ensamble, optimizar hiperparámetros y evaluar el impacto económico del umbral de decisión.
-  - **Aprendizaje no supervisado** segmentar clientes sin usar la etiqueta de churn y cruzar después los segmentos con el abandono.
+  - **Regresión logística (baseline):** modelo interpretable para predecir el churn.
+  - **Gradient Boosting y optimización:** modelos de ensamble, ajuste de hiperparámetros y evaluación del impacto económico del umbral de decisión.
+  - **Aprendizaje no supervisado:** segmentación de clientes sin usar la etiqueta de churn, cruzando luego los segmentos con el abandono.
 - **Tecnologías:** Python · numpy · pandas · scipy · scikit-learn · statsmodels · matplotlib · seaborn · xgboost · lightgbm · catboost · jupyterlab
 - **Enlaces:** [Repositorio](https://github.com/jesitm/churn-bancario)
-  
+
+## Docencia
+
+- **Docente universitaria** · Universidad Nacional de Quilmes y Universidad Nacional de Pilar
+
 ## Formación
 
 - **Licenciada en Informática** · Universidad Nacional de La Plata
 - **Formación en Data Science y Machine Learning** · Academia de Tecnología Henry
-- **Docencia universitaria** · Universidad Nacional de Quilmes y Universidad Nacional de Pilar
-  
+
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/jessicatorresmolina/) · [GitHub](https://github.com/jesitm)
+[LinkedIn](https://www.linkedin.com/in/jessicatorresmolina/)
+
